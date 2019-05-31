@@ -1,0 +1,12 @@
+{
+    "name": "augustboat",
+    "description": "Management Discord bot for reloading, stopping, or starting projects",
+    "version": "0.0.1",
+    "main": "src/bot.js",
+    "author": "auguwu <augu@voided.pw>",
+    "dependencies": {
+        "common-tags": "1.8.0",
+        "dotenv": "7.0.0",
+        "eris": "0.9.0"
+    }
+}
